@@ -24,4 +24,8 @@ public class HelloWorld {
 	{
 		return "Bye Friends ";
 	}
+public String saySSIT()
+	{
+		return "We are all Ssit Students ";
+	}
 }
