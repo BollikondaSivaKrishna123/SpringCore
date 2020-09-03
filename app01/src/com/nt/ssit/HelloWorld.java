@@ -1,6 +1,7 @@
 package com.nt.ssit;
 
 public class HelloWorld {
+	
 	private String ename;
 	private String eno;
 	public void setEno(String eno) {
@@ -18,6 +19,7 @@ public class HelloWorld {
 	
 	public String sayHello()			//Business Method
 	{
+		System.out.println("Bollikonda Siva Krishna");
 		return " Hello Guru , "+ename;
 	}
 	public String sayBye()
@@ -28,4 +30,5 @@ public String saySSIT()
 	{
 		return "We are all Ssit Students ";
 	}
+
 }
