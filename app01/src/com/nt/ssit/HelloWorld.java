@@ -20,4 +20,8 @@ public class HelloWorld {
 	{
 		return " Hello Guru , "+ename;
 	}
+	public String sayBye()
+	{
+		return "Bye Friends ";
+	}
 }
