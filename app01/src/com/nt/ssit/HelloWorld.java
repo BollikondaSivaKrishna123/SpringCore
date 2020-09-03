@@ -22,7 +22,14 @@ public class HelloWorld {
 		System.out.println("Bollikonda Siva Krishna");
 		return " Hello Guru , "+ename;
 	}
-	
-
+	public String sayBye()
+	{
+		return "Bye Friends ";
+	}
+public String saySSIT()
+	{
+		System.out.println("Sai Spurthi Students ");
+		return "We are all Ssit Students ";
+	}
 
 }
