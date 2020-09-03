@@ -28,6 +28,7 @@ public class HelloWorld {
 	}
 public String saySSIT()
 	{
+		System.out.println("Sai Spurthi Students ");
 		return "We are all Ssit Students ";
 	}
 
